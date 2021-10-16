@@ -1,4 +1,4 @@
-*RISC-V Zero Trust Security Model*
+*RISC-V Zero Trust Platform Security Model*
 
 Please refer to the specification below:
 

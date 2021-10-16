@@ -1,0 +1,5 @@
+*RISC-V Zero Trust Security Model*
+
+Please refer to the specification below:
+
+https://docs.google.com/document/d/1jtVuyat16w4WC_vH0dbzHibDGwsCQcoLCC-f2cHZ3rU/edit?usp=sharing

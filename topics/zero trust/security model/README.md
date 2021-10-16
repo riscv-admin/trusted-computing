@@ -1,4 +1,4 @@
-# RISC-V Zero Trust Security Model
+# RISC-V Zero Trust Platform Security Model
 
 The files in this project are used to create the RISC-V 
 Platform Specification.  This specification defines the set of firmware

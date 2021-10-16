@@ -1,14 +1,14 @@
 // SPDX-License-Identifier: CC-BY-4.0
 //
-// riscv-zero-trust-model.adoc: main file for the specification
+// riscv-zero-trust-platform-security-model.adoc: main file for the specification
 //
 // This file provides the primary structure and formatting for
 // the overall Profile and Platform Specification.
 //
-= RISC-V Zero Trust Security Model
-:author: RISC-V Platform Horizontal Subcommittee (RISC-V Platform HSC) 
-:email: tech-unixplatformspec@lists.riscv.org
-:revnumber: 0.2-draft
+= RISC-V Zero Trust Platform Security Model
+:author: RISC-V Security Sub-Committee (RISC-V Security HSC) 
+:email: security@lists.riscv.org
+:revnumber: 0.1-draft
 :revdate: September 2021
 :doctype: book
 :sectnums:

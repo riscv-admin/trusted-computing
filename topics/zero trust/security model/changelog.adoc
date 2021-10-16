@@ -1,0 +1,29 @@
+// SPDX-License-Identifier: CC-BY-4.0
+//
+// changelog.adoc: change log for the document
+//
+// Provide a list of changes made to each revision of the document.
+//
+[preface]
+## Change Log
+
+### version 0.2-draft
+* 2021-09-01:
+** Draft version for internal reviews
+* 2021-05-20:
+** Platform requirements for Debug
+* 2021-05-19:
+** Base boot and runtime requirements - Initial commit 
+* 2021-04-08:
+** Initial commit of server firmware requirements
+* 2021-03-25:
+** Initial commit of Embedded-2022 specification
+* 2021-03-16:
+** Added 2022 platforms
+** Added individual sections and sub-sections for the content
+
+### version 0.1-draft
+* 2020-10-07:
+** Initial changes for structure and future maintenance.
+** Break content down into include files; more structure, but easier
+   to make changes down the line.

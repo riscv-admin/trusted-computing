@@ -7,3 +7,6 @@ Minutes:
 4. Target to take the security model document from v0.4 to v0.8 - ETA: Jan 31 2022
 5. Work with Jeff to align with safety SIG
 6. Work with Jeff to update the plans of the contribution by this SIG
+7. We discussed the goals and threat model for a scalable AP-TEE
+  --> https://github.com/riscv-admin/trusted-computing/blob/main/meetings/04-01-2022/1-4-2022%20Discussion%20on%20Scalable%20AP-TEE%20for%20RISC-V.pdf
+  seeking feedback on threat model

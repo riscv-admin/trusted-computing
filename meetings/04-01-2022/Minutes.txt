@@ -1,0 +1,9 @@
+Minutes:
+
+1. Need to prepare prioritization of the various features we are working on along with timelines (2022, 2023, 2024)
+2. Share the above details to Mark (CTO) by 2nd week of January, else inform when it can be done
+3. Request community to review and provide comments to the platform security model spec
+  --> https://docs.google.com/document/d/1TRHhsGiB5W4K8M7I4e-f40mOPErTb9sv/edit#
+4. Target to take the security model document from v0.4 to v0.8 - ETA: Jan 31 2022
+5. Work with Jeff to align with safety SIG
+6. Work with Jeff to update the plans of the contribution by this SIG
